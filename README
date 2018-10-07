@@ -1,7 +1,7 @@
-bitcoin-gold-seeder
+khorium-seeder
 ==============
 
-Bitcoin-gold-seeder is a crawler for the Bitcoin Gold network, which exposes a list
+khorium-seeder is a crawler for the Khorium network, which exposes a list
 of reliable nodes via a built-in DNS server.
 
 Features:
